@@ -32,7 +32,7 @@ Y nuestros talleres:
 
 ## Paleta de colores
 
-- `#7A8D9B`
+- `#ADB(7, 8, 9)`
 - `#B2B9BF`
 - `#F1F0E8`
 - `#E3D4D0`
@@ -42,7 +42,7 @@ Y nuestros talleres:
 
 ## Logo
 
-(/Logo.png)
+[Logo](/Logo.png)
 
 
 
