@@ -41,7 +41,7 @@ Y nuestros talleres:
 
 ## Logo
 
-!(https://github.com/Gbacaglio/Bacaglio-TiendaNerola/blob/main/Logo.png)
+![Logo](https://github.com/Gbacaglio/Bacaglio-TiendaNerola/blob/main/Logo.png)
 
 
 
