@@ -42,7 +42,7 @@ Y nuestros talleres:
 
 ## Logo
 
-[Logo](/Logo.png)
+(/Logo.png)
 
 
 
