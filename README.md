@@ -23,25 +23,24 @@ Y nuestros talleres:
 
 
 ## Publico objetivo
-
+----
  El publico objetivo de Tienda Nerola será personas de entre 25 y 60 años de cualquier genero.
 
 ## Tipografia principal
-
+----
  PTSans-Regular.ttf
 
 ## Paleta de colores
-
-- `rgb(122,141,155)`
+----
+- `#7A8D9B`
 - `#B2B9BF`
 - `#F1F0E8`
 - `#E3D4D0`
 - `#DABEB6`
 
 
-
 ## Logo
-
+----
 [Logo](/Logo.png)
 
 
