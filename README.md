@@ -42,7 +42,7 @@ Y nuestros talleres:
 
 ## Logo
 
-[Logo](BACAGLIO-TIENDANEROLA/Logo.png)
+[Logo](/Logo.png)
 
 
 
