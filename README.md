@@ -32,7 +32,7 @@ Y nuestros talleres:
 
 ## Paleta de colores
 
-- `#ADB(7, 8, 9)`
+- `rgb(122,141,155`
 - `#B2B9BF`
 - `#F1F0E8`
 - `#E3D4D0`
