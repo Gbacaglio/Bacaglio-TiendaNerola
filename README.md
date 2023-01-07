@@ -9,17 +9,17 @@ En Tienda Nerola, no solo podras encontrar todo lo que necesitas para decorar tu
 Nuestra mision es que todos puedan poner su casa linda sin necesidad de gastarse un dineral. 
 
 En nuetra tienda podras encontrar:
--[] Vajilla artesanal 
--[] Textiles.
--[] Iluminación.
--[] Muebles pequeños en madera.
--[] Deco y organización.
+- [] Vajilla artesanal 
+- [] Textiles.
+- [] Iluminación.
+- [] Muebles pequeños en madera.
+- [] Deco y organización.
 
 Y nuestros talleres:
--[] Bordado punch
--[] Cesteria textil
--[] Tapiz en telar
--[] Ceramica a mano
+- Bordado punch
+-  Cesteria textil
+-  Tapiz en telar
+-  Ceramica a mano
 
 
 ## Publico objetivo
@@ -32,11 +32,11 @@ Y nuestros talleres:
 
 ## Paleta de colores
 
--'#7A8D9B'
--'#B2B9BF'
--'#F1F0E8'
--'#E3D4D0'
--'#DABEB6'
+- []'#7A8D9B'
+- []'#B2B9BF'
+- []'#F1F0E8'
+- []'#E3D4D0'
+- []'#DABEB6'
 
 
 
