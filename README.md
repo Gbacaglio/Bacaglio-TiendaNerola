@@ -33,14 +33,17 @@ Y nuestros talleres:
 ## Paleta de colores
 
 - `#7A8D9B`
-- []'#B2B9BF'
-- []'#F1F0E8'
-- []'#E3D4D0'
-- []'#DABEB6'
+- `#B2B9BF`
+- `#F1F0E8`
+- `#E3D4D0`
+- `#DABEB6`
 
 
 
 ## Logo
 
-![Marcado 1] (/ICARO.JS/Fotos/logo.png)
+[Logo](BACAGLIO-TIENDANEROLA/Logo.png)
 
+
+
+[def]: ./Logo.png
