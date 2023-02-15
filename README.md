@@ -43,6 +43,6 @@ Y nuestros talleres:
 
 ![Logo](https://github.com/Gbacaglio/Bacaglio-TiendaNerola/blob/main/Logo.png)
 
-
-
 [def]: ./Logo.png
+
+Ingresar a Figma [DESDE AQUI](https://www.figma.com/file/s1THAGuXaQhXabZfhCo0zm/Untitled?node-id=0%3A1&t=2P46Z3wENRBG9hgR-0)
